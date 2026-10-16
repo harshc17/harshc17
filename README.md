@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:8E2DE2,100:00d2ff&height=220&section=header&text=HARSH%20CHANDAK&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=learning%2C%20building%2C%20and%20shipping%20useful%20software&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/harshc17">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=EE%26CS+student+%40+MIT-WPU+%F0%9F%8E%93;Exploring+AI%2C+cybersecurity+%26+software+development+%F0%9F%94%90;Building+full-stack+web+experiences+%F0%9F%9A%80;Curious+by+default%2C+debugging+by+necessity+%E2%98%95" alt="Typing introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=EE%26CS+student+%40+MIT-WPU+%F0%9F%8E%93;Exploring+AI/ML%2C+Autonomous Systems+%26+software+development+%F0%9F%94%90;Building+full-stack+web+experiences+%F0%9F%9A%80;Curious+by+default%2C+debugging+by+necessity+%E2%98%95" alt="Typing introduction"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=harshc17&style=for-the-badge&color=8E2DE2&label=PROFILE+VIEWS" alt="Profile views"/>
@@ -17,10 +17,10 @@ harsh@earth:~$ whoami
 > Harsh Chandak — EE&CS student at MIT-WPU, Pune
 
 harsh@earth:~$ cat interests.txt
-> AI · cybersecurity · full-stack development · turning ideas into software
+>  Full-stack development · AI/ML · Autonomous Systems · turning ideas into software
 
 harsh@earth:~$ ls projects/
-> RailConnect/  personal-expense-tracker/  video-downloader/  portfolio/
+> PaperTradeX/ Rail-Connect / ADAS on Jetson Nano/
 
 harsh@earth:~$ sudo keep-learning
 > Access granted. Let's build something useful.
