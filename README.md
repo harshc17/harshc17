@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:8E2DE2,100:00d2ff&height=220&section=header&text=HARSH%20CHANDAK&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=learning%2C%20building%2C%20and%20shipping%20useful%20software&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/harshc17">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=EE%26CS+student+%40+MIT-WPU+%F0%9F%8E%93;Exploring+AI/ML%2C+Autonomous Systems+%26+software+development+%F0%9F%94%90;Building+full-stack+web+experiences+%F0%9F%9A%80;Curious+by+default%2C+debugging+by+necessity+%E2%98%95" alt="Typing introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=880&lines=EE%26CS+student+%40+MIT-WPU+%F0%9F%8E%93;Exploring+AI%2FML%2C+Autonomous+Systems+%26+software+development+%F0%9F%94%90;Building+full-stack+web+experiences+%F0%9F%9A%80;Curious+by+default%2C+debugging+by+necessity+%E2%98%95" alt="Typing introduction"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=harshc17&style=for-the-badge&color=8E2DE2&label=PROFILE+VIEWS" alt="Profile views"/>
@@ -17,10 +17,10 @@ harsh@earth:~$ whoami
 > Harsh Chandak — EE&CS student at MIT-WPU, Pune
 
 harsh@earth:~$ cat interests.txt
->  Full-stack development · AI/ML · Autonomous Systems · turning ideas into software
+> Full-stack development · AI/ML · Autonomous Systems · turning ideas into software
 
 harsh@earth:~$ ls projects/
-> PaperTradeX/ Rail-Connect / ADAS on Jetson Nano/
+> PaperTradeX/  RailConnect/  ADAS-on-Jetson-Nano/
 
 harsh@earth:~$ sudo keep-learning
 > Access granted. Let's build something useful.
@@ -41,7 +41,7 @@ harsh@earth:~$ sudo keep-learning
 timeline
     title Learning and Building
     Foundation : EE&CS at MIT-WPU, Pune : Exploring software development
-    Now : Building full-stack web applications : Learning AI and cybersecurity
+    Now : Building full-stack web applications : Learning AI/ML and autonomous systems
     Next : Ship more useful projects : Solve harder engineering problems
 ```
 
@@ -52,8 +52,8 @@ timeline
 | Focus | Status |
 |---|---|
 | **Full-stack web development** — building complete experiences from UI to database | 🟢 shipping projects |
-| **Cybersecurity** — understanding how systems fail and how to make them safer | 🟡 learning in public |
-| **AI** — exploring practical ways to build with intelligent systems | 🔁 curiosity loop active |
+| **Autonomous Systems** — exploring robotics, control systems, and automated intelligence | 🟡 learning in public |
+| **AI/ML** — exploring practical ways to build with intelligent models and agents | 🔁 curiosity loop active |
 
 ---
 
@@ -73,11 +73,11 @@ timeline
 
 | Project | Mission Report |
 |---|---|
+| 📈 **[PaperTradeX](https://github.com/harshc17/PapertTradeX)** | A real-time paper trading and portfolio simulation web application built with **React, TypeScript, and TailwindCSS**. |
 | 🚂 **[RailConnect](https://github.com/harshc17/RailConnect)** | An IRCTC-inspired train reservation system built with **React, TypeScript, Node.js, Express, and MySQL**. Includes secure authentication, train search, booking flows, PDF tickets, and an admin dashboard. |
-| 💸 **[Personal Expense Tracker](https://github.com/harshc17/perosnalexpensetracker)** | A Python project for keeping everyday expenses visible and organized. |
-| ⬇️ **[Video Downloader](https://github.com/harshc17/video_downloader)** | A Python utility project for downloading videos. |
-| 🎨 **[Portfolio](https://github.com/harshc17/Portfolio)** | A personal portfolio site built for the web. |
-| 📝 **[ReactForm](https://github.com/harshc17/ReactForm)** | A JavaScript project focused on creating smooth form interactions. |
+| 🚗 **[ADAS on Jetson Nano](https://github.com/harshc17/ADAS-Digital-Twin-Model)** | Advanced Driver Assistance System (ADAS) digital twin and perception pipeline optimized for edge compute hardware. |
+| 🎯 **[Amazon ML Challenge](https://github.com/harshc17/Amazon-ML-Challenge)** | Machine learning solution developed for the Amazon ML Challenge featuring data preprocessing, feature engineering, and model training. |
+| 💸 **[Personal Expense Tracker](https://github.com/harshc17/perosnalexpensetracker)** | A Python utility for tracking and organizing everyday expenses. |
 
 ---
 
@@ -119,7 +119,7 @@ timeline
 <br/>
 
 - I am an EE&CS student who enjoys learning by building.
-- I am especially interested in AI, cybersecurity, and practical software engineering.
+- I am especially interested in AI/ML, autonomous systems, and practical software engineering.
 - My current project path goes from small Python utilities to full-stack applications with real user flows.
 - `while (curious) { learn(); build(); improve(); }`
 
