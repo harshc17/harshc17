@@ -94,8 +94,6 @@ timeline
   <img src="https://leetcard.jacoblin.cool/harshc17?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode statistics"/>
 </a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshc17&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true" width="95%" alt="Contribution activity graph"/>
-
 </div>
 
 ---
